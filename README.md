@@ -31,3 +31,10 @@ The data for this analysis was gathered from:
 - Mapping content distribution using choropleth maps
 - Analysis of regional availability of specific genres
 - Visualization of content diversity across different countries
+
+## Contact
+For questions or suggestions, please contact [zeynep.gokmen@etiya.com](mailto:zeynep.gokmen@etiya.com) or [zeynep.gokmen@sabanciuniv.edu](mailto:zeynep.gokmen@sabanciuniv.edu).
+
+---
+
+*Note: This project is for educational and informational purposes only.*
