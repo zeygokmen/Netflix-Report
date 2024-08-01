@@ -7,6 +7,8 @@ This repository contains a comprehensive analysis of Netflix's film and series c
 ## Link for the project
 [Netflix Report](https://lookerstudio.google.com/s/koKV1XbJmGU)
 
+<img src="netflix.png" width="600" height="400" />
+
 ## Data Sources
 The data for this analysis was gathered from:
 - [Kaggle](https://www.kaggle.com/)
