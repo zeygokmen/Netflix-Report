@@ -5,9 +5,9 @@ This project analyzes the distribution of film and series categories on Netflix 
 This repository contains a comprehensive analysis of Netflix's film and series categories across different countries, created using **Looker Studio**. The report aims to explore the variety and distribution of content available in various regions, providing insights into Netflix's global catalog.
 
 ## Link for the project
-[Netflix Report](https://lookerstudio.google.com/s/koKV1XbJmGU)
+[Netflix Report](https://lookerstudio.google.com/s/s8l7plT7qFo)
 
-<img src="netflix.png" width="600" height="400" />
+<img src="netflix.png" width="300" height="300" />
 
 ## Data Sources
 The data for this analysis was gathered from:
